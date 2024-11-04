@@ -1,7 +1,4 @@
 
-# Writing the README.md content to a file
-
-readme_content = """
 # Vendor Analysis - Power BI Project
 
 This project is a **Vendor Analysis Dashboard** created in Power BI, designed to provide insights into vendor performance, annual invoice trends, and quantity metrics. The dashboard segments vendors based on quantity and invoice value, enabling data-driven decision-making for vendor management and procurement.
