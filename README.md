@@ -60,7 +60,8 @@ The Power BI dashboard is organized into three main reports:
 ### 3. Vendor Performance and Invoice Analysis
 
 
-![Uploading Vendor Performance and Invoice Analysis.png…]()
+![Vendor Performance and Invoice Analysis](https://github.com/user-attachments/assets/de59a96f-a145-42dc-8153-4a8b709f23bd)
+
 
 **Description**: This report categorizes vendors by clusters based on quantity and invoice value, providing insights into vendor segmentation.
 
