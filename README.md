@@ -84,8 +84,4 @@ The dashboard includes several filters to allow users to narrow down their analy
 - **Product Description**
 - **Invoice and Quantity Clusters**
 
-## DAX Measures
-
-Here are some key DAX measures used in the dashboard:
-
----
+### Explore the complete interactive dashboard by following this link : (https://app.powerbi.com/view?r=eyJrIjoiMTY4YWIyYjUtNmNlNy00YzI1LTlmMzYtYzNmMzE2YWY3ZDRmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
