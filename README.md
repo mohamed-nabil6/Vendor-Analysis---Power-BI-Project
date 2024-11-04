@@ -75,23 +75,8 @@ The dashboard includes several filters to allow users to narrow down their analy
 - **Product Description**
 - **Invoice and Quantity Clusters**
 
----
-
-## How to Use the Dashboard
-
-1. **Select Filters**: Use the filters on the right side of the dashboard to narrow down data by year, quarter, month, vendor name, and product description.
-2. **Analyze KPIs**: Review the KPIs on the main report page to get a quick overview of total invoice value, vendor count, product count, and quantity.
-3. **Compare Vendors**: Use the YoY comparison report to examine changes in vendor performance over the years.
-4. **Review Monthly Trends**: Analyze the monthly trend line to observe peak and low-performing months.
-5. **Cluster Analysis**: Explore the cluster analysis report to see how vendors are distributed based on invoice value and quantity.
-
----
-
 ## DAX Measures
 
 Here are some key DAX measures used in the dashboard:
 
-### Total Invoices
-
-```DAX
-Total Invoices = SUM(Invoices[InvoiceAmount])
+---
