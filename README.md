@@ -84,4 +84,5 @@ The dashboard includes several filters to allow users to narrow down their analy
 - **Product Description**
 - **Invoice and Quantity Clusters**
 
-### Explore the complete interactive dashboard by following this link : (https://app.powerbi.com/view?r=eyJrIjoiMTY4YWIyYjUtNmNlNy00YzI1LTlmMzYtYzNmMzE2YWY3ZDRmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+### Explore the complete interactive dashboard by following this link : 
+- [Vendor Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTY4YWIyYjUtNmNlNy00YzI1LTlmMzYtYzNmMzE2YWY3ZDRmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
