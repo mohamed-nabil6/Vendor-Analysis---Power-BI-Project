@@ -30,6 +30,9 @@ The Power BI dashboard is organized into three main reports:
 
 ### 1. Annual Vendor Performance & Invoice Trends
 
+
+![Annual Vendor Performance   Invoice Trends](https://github.com/user-attachments/assets/60184daf-3846-4e2a-8769-b29aa9179bab)
+
 **Description**: This report provides an overview of vendor performance and invoice trends throughout the current and previous year.
 
 - **KPIs**:
@@ -45,6 +48,9 @@ The Power BI dashboard is organized into three main reports:
 
 ### 2. Year-over-Year Invoice Comparison
 
+
+![Year-over-Year Invoice Comparison](https://github.com/user-attachments/assets/e0e0fd9f-7c8d-4439-90aa-278026f92c10)
+
 **Description**: This report focuses on the year-over-year comparison of vendor invoice amounts, highlighting changes in performance.
 
 - **Charts**:
@@ -52,6 +58,9 @@ The Power BI dashboard is organized into three main reports:
   - **Total Invoice & Vendor Name**: A ranked list of vendors by invoice totals, facilitating quick identification of top-performing vendors.
 
 ### 3. Vendor Performance and Invoice Analysis
+
+
+![Uploading Vendor Performance and Invoice Analysis.png…]()
 
 **Description**: This report categorizes vendors by clusters based on quantity and invoice value, providing insights into vendor segmentation.
 
